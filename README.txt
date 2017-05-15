@@ -1,0 +1,2 @@
+This Help System is created to show some syntaxes for some methods.
+You input one of the listed numbers or letter related to the method's name and press the 'ENTER' key; chosen method's syntax will be printed into the terminal.
